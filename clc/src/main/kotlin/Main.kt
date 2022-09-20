@@ -8,4 +8,8 @@ fun main(args: Array<String>) {
     println(a+b)
     println("Результат вычитания:")
     println(a-b)
+    println("Результат умножения:")
+    println(a*b)
+    println("Результат деления:")
+    println(a/b)
 }
